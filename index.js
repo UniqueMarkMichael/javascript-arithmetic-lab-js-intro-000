@@ -9,5 +9,5 @@ function decrement(var1){return var1 - 1}
 
 function makeInt(n) {
  parseInt(n,10)
- return (n)
+ return parseInt (n,10)
 }
